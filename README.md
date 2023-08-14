@@ -1,4 +1,4 @@
-# Diagnosing-of-Covid-19-using-CNN
+# Diagnosing of Covid-19 using Deep Convolutional Neural Network (CNN) on Human Chest X-Ray Films
 "Diagnosing of Covid-19 using Convolutional Neural Network (CNN) on Chest X-Ray Films"
 Mankind, who has been struggling with epidemic diseases for long years, had to take precautions in a global scale that was not seen before due to an epidemic in China. 
 While this epidemic was spreading faster than the humanity had thought, the traditional test methods were found to be inadequate for the diagnosis of the cause of the epidemic which is coronavirus. 
